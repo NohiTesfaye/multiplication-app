@@ -14,8 +14,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/YourUsername/Multiplication-App.git
-```
+git clone  https://github.com/NohiTesfaye/multiplication-app.git
 
 Open the index.html file in your web browser.
 
